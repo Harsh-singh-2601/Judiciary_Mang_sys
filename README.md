@@ -13,7 +13,7 @@ I deleted my data cluster and my credentials won't work anymore. Please create a
 6. [Further improvements](#further-improvements)
 7. [Lama Dev's tutorial for MERN stack development](https://www.youtube.com/watch?v=ldGl6L4Vktk&t=0s)
  
-## Authors: [Surya Prakash](https://github.com/nespar7/), [Virinchi Mourya](https://github.com/Kreiger444) and [Pandiri Adithya](https://github.com/fartbox123)
+## Authors: [Harsh Singh](https://github.com/Harsh-singh-2601)
 
 ## How to run:
 * Clone the project to somewhere on you local. Let's call it `local-folder`
